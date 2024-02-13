@@ -1,8 +1,15 @@
-<h1 align="center">Hi 👋, I'm Eldin Helja</h1>
+<h1 align="center">Eldin Helja</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heeljaa&label=Profile%20views&color=0e75b6&style=flat" alt="heeljaa" /> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1187278/screenshots/16762086/media/10ba6161c70f3edd67f34e229b62b852.gif"
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1187278/screenshots/16762086/media/10ba6161c70f3edd67f34e229b62b852.gif">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🔭 Ilijaš, BiH.
+- 🌱 Srednjoškolski centar "Nedžad Ibrišimović".
+- 💬 IV-a
+- 📫 Mozete me kontaktirati na: eldin.helja@scilijas.com.ba
+- 😄 IT - gimnazija.
+- ⚡ EXTRAAAA.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
